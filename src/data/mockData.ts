@@ -136,7 +136,7 @@ export const mockIssuedBadges: IssuedBadge[] = [
   {
     issued_badge_id: 'issued-1',
     badge_def_id: 'badge-1',
-    user_id: '789e4bb6-db59-4cea-92b9-7cc8778e6665',
+    user_id: '3914e1ff-39d5-4cb6-a88f-4d4956f2ec8b',
     org_id: 'org-1',
     issue_date: '2024-04-22T16:00:00Z',
     verification_code: 'PB-2024-001-ABC123',
@@ -147,7 +147,7 @@ export const mockIssuedBadges: IssuedBadge[] = [
   {
     issued_badge_id: 'issued-2',
     badge_def_id: 'badge-3',
-    user_id: '789e4bb6-db59-4cea-92b9-7cc8778e6665',
+    user_id: '3914e1ff-39d5-4cb6-a88f-4d4956f2ec8b',
     org_id: 'org-2',
     issue_date: '2024-05-15T17:00:00Z',
     verification_code: 'PB-2024-002-XYZ789',
